@@ -1,11 +1,7 @@
 # DBSCAN-Clustering-for-Hotspot-Detection
 
 Objective:
-->Identify the Vehicle halt spots (places where the vehicles are stationary or halting for long periods of time) from telematics vehicle data. 
-->Hotspots where large number of vehicles/drivers come and rest form strategic locations for service camps, roadside assistance, nearby Dealerships, Petrol stations etc.
-->Main Objective of this project is to maximise Post Market Profits
-
-![image](https://user-images.githubusercontent.com/91423180/193449012-0a697dd9-0fbd-4e10-b415-a79852b013f8.png)
+![image](https://user-images.githubusercontent.com/91423180/193449048-9a89dc7d-1567-4fa1-b89a-62b2182e233a.png)
 
 
 
