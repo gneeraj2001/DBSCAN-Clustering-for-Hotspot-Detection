@@ -20,5 +20,6 @@ The exported cluster dataset was imported into tableau and visualisation was don
 https://public.tableau.com/app/profile/neeraj.g8884/viz/Book2_16365298297440/VehicleHaltAnalysis
 
 Insights:
-![image](https://user-images.githubusercontent.com/91423180/193449311-0abc8e01-55e2-40a2-a381-a77ed8e9ef86.png)
+![image](https://user-images.githubusercontent.com/91423180/193449328-c824d46f-eae7-439e-865f-998af9e89af6.png)
+
 
