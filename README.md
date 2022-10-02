@@ -1,7 +1,8 @@
 # DBSCAN-Clustering-for-Hotspot-Detection
 
 Objective:
-![image](https://user-images.githubusercontent.com/91423180/193449048-9a89dc7d-1567-4fa1-b89a-62b2182e233a.png)
+![image](https://user-images.githubusercontent.com/91423180/193449068-0a7dfb67-258a-4c70-a6bd-6a8886dee979.png)
+
 
 
 
